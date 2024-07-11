@@ -1,0 +1,12 @@
+.azure
+.nvmrc
+node_modules
+.venv
+.turbo
+dist/
+data
+*.turbo
+.env
+*.code-snippets
+.yarn/
+.yarnrc
