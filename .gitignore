@@ -3,7 +3,6 @@
 node_modules
 .venv
 .turbo
-dist/
 data
 *.turbo
 .env
